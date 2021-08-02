@@ -1,0 +1,31 @@
+﻿{
+	"version": 1627872115,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/fe600789b180eced1858b4b413f265ba-sheet0.png",
+		"images/tiledbackground2.png",
+		"images/tiledbackground3.png",
+		"images/maksonium-sheet0.png",
+		"images/npr_xebjst0removebgpreview-sheet0.png",
+		"images/what-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/imageremovebgpreview-sheet0.png",
+		"images/imageremovebgpreview2-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/imageremovebgpreview3-sheet0.png",
+		"media/toby fox - undertale soundtrack - 93 menu (full).ogg",
+		"media/electrodynamix.ogg",
+		"media/skibidi bop mm dada - sound effect.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"adapter.js"
+	]
+}
